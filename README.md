@@ -27,10 +27,5 @@ Key Achievements:
 using Django, a Python-based web framework
 
 •Developed over 40 API endpoints, enabling seamless interactions between
-various stakeholders
-•Demonstrated proficiency in database modeling and schema design by creating
-efficient data structures for managing leads, employees, managers & customers
-•Showcased frontend and backend development skills by building user-friendly
-interfaces and robust backend functionality
-•Implemented secure authentication and authorization mechanisms, ensuring
-the confidentiality and integrity of user data
+various stakeholders.
+
